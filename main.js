@@ -32,17 +32,6 @@ document.addEventListener('DOMContentLoaded',() =>{
   })
 })
 
-// function heartClick(e){
-//   const like = e.target
-// }
-// function manageError(){
-//   let modal = document.getElementById('modal')
-//   modal.classList.remove("hidden")
-//   modal.textContent = data
-//   setTimeout(()=> modal.classList.add("hidden"),3000)
-// }
-
-
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
